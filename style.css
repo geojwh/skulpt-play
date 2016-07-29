@@ -1,0 +1,45 @@
+body {
+	background-color: grey;
+	color: black;
+	margin: 50px 20px 50px 20px;
+	margin: 0 auto;
+}
+
+h1 {
+	color: black;
+	font-weight: bold;
+}
+
+a {
+	color: lightblue;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: orange;
+	text-decoration: none;
+}
+
+pre {
+	margin: 0 auto;
+	max-width: 500px;
+}
+
+#mycanvas, #output {
+	margin: 0 auto;
+	max-width: 500px;
+}
+
+.main {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.btn.btn-primary {
+	margin-right: 50px;
+}
+
+.btn.btn-danger {
+	margin-left: 50px;
+}

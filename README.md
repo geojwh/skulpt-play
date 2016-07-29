@@ -1,2 +1,4 @@
 # skulpt-play
-this an in-browser python playground using skulpt
+in-browser python playground using skulpt
+
+view it here: http://johnwhaney.com/skulpt-play
